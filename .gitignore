@@ -1,0 +1,8 @@
+/node_modules/
+/.build/
+/.serverless/
+serverless.yml*
+/_warmup/
+.env
+dist/*
+/.DS_Store
