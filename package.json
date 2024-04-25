@@ -22,7 +22,7 @@
     "@nestjs/platform-express": "^10.3.2",
     "openai": "^4.29.2",
     "reflect-metadata": "^0.2.1",
-    "supergood": "^1.2.15"
+    "supergood": "^1.2.22"
   },
   "devDependencies": {
     "@hewmen/serverless-plugin-typescript": "^1.1.17",
